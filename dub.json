@@ -1,0 +1,17 @@
+{
+	"name" : "DFeedly",
+	"description": "D language wrapper for Feedly API.",
+	"copyright": "Copyright © 2014, Oleh Havrys",
+	"authors": [
+		"Oleh Havrys"
+	],
+	"configurations": [
+		{
+			"name": "DFeedly",
+			"targetType": "library",
+			"targetPath": "build",
+			"versions": ["trace"]
+		}
+	]
+	
+}
