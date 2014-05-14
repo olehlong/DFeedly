@@ -1,4 +1,4 @@
-d-feedly-api
+DFeedly
 ==========
 
 D language wrapper for Feedly API
